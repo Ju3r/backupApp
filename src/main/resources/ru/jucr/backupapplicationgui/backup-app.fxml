@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<TabPane fx:id="tabPane" tabClosingPolicy="SELECTED_TAB" fx:controller="ru.jucr.backupapplicationgui.Controller" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+    <fx:define>
+        <ToggleGroup fx:id="toggleGroup" />
+    </fx:define>
+    <Tab text="Task 1" onClosed="#deleteConfiguration">
+        <AnchorPane prefHeight="500.0" prefWidth="400.0">
+            <children>
+                <Label layoutX="20.0" layoutY="23.0" text="Source Folder:" />
+                <TextField fx:id="sourceField" layoutX="137.0" layoutY="20.0" prefWidth="243.0" />
+
+                <Label layoutX="20.0" layoutY="60.0" text="Remote Folder:" />
+                <TextField fx:id="remoteFolderField" layoutX="137.0" layoutY="57.0" prefWidth="243.0" />
+
+                <Label layoutX="20.0" layoutY="97.0" text="Username:" />
+                <TextField fx:id="usernameField" layoutX="137.0" layoutY="94.0" prefWidth="243.0" />
+
+                <Label layoutX="20.0" layoutY="134.0" text="Server Host:" />
+                <TextField fx:id="serverHostField" layoutX="137.0" layoutY="131.0" prefWidth="243.0" />
+
+                <Label layoutX="20.0" layoutY="171.0" text="Server Port:" />
+                <TextField fx:id="serverPortField" layoutX="137.0" layoutY="168.0" prefWidth="243.0" />
+
+                <Label layoutX="20.0" layoutY="208.0" text="Password:" />
+                <!--        <PasswordField fx:id="passwordField" layoutX="137.0" layoutY="205.0" prefWidth="243.0" />-->
+                <TextField fx:id="passField" layoutX="137.0" layoutY="205.0" prefWidth="243.0" />
+
+                <Label layoutX="20.0" layoutY="245.0" text="Interval:" />
+                <TextField fx:id="intervalField" layoutX="137.0" layoutY="242.0" prefWidth="243.0" />
+
+                <Button fx:id="saveButton" layoutX="137.0" layoutY="288.0" mnemonicParsing="false" text="Save Configuration" onAction="#saveConfiguration" />
+                <Button fx:id="startButton" layoutX="270.0" layoutY="288.0" mnemonicParsing="false" text="Start Backup" onAction="#startMonitoring"/>
+
+                <Label layoutX="20.0" layoutY="328.0" text="Results:" />
+                <TextArea fx:id="resultsTextArea" layoutX="20.0" layoutY="358.0" prefHeight="119.0" prefWidth="360.0" wrapText="true" />
+
+                <RadioButton fx:id="radioBackup" layoutX="20.0" layoutY="270.0" text="Backup" toggleGroup="$toggleGroup" />
+                <RadioButton fx:id="radioTracking" layoutX="20.0" layoutY="290.0" text="Tracking" toggleGroup="$toggleGroup" />
+            </children>
+        </AnchorPane>
+    </Tab>
+
+    <Tab text="+" onSelectionChanged="#addTab"></Tab>
+</TabPane>

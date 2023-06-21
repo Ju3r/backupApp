@@ -1,0 +1,3208 @@
+Date: 01.06.2023 Time: 12:48
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 12:48
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 12:48
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 12:48
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:08
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:08
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:13
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:13
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:14
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:14
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:14
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:14
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:14
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:14
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:14
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:15
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:15
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:15
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:20
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:20
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:20
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:21
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:21
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:21
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:21
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:21
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:21
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:22
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:22
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:22
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:23
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:23
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:23
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:24
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:24
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:24
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:25
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:25
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:25
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:25
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:25
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:25
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:26
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:26
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:26
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:28
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:28
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:28
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:29
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:29
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:29
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:32
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:32
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:32
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:32
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:32
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:32
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:33
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:33
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:33
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 13:34
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:34
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:34
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+Date: 01.06.2023 Time: 13:36
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:36
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:36
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:37
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:37
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:37
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:38
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:38
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:38
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:39
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:39
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:39
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:43
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:43
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:43
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+Date: 01.06.2023 Time: 13:44
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:44
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:44
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:46
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:46
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:46
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+Date: 01.06.2023 Time: 13:48
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:49
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:49
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:50
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:50
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:50
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:52
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:52
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:52
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 13:54
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+Date: 01.06.2023 Time: 13:54
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+Date: 01.06.2023 Time: 13:54
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+Date: 01.06.2023 Time: 14:06
+New files:
+Новый текстовый документ.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:06
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:06
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:08
+New files:
+Новый текстовый документ.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:08
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:08
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:09
+New files:
+Новый текстовый документ.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:09
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:09
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:10
+New files:
+Новый текстовый документ.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:10
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:10
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:15
+New files:
+Новый текстовый документ.txt
+
+Modified files:
+
+New directories:
+123
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:15
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:15
+New files:
+123.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:15
+New files:
+fg.txt
+
+Modified files:
+
+New directories:
+gg
+gg2
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:36
+New files:
+Новый текстовый документ.txt
+
+Modified files:
+
+New directories:
+123
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:36
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:36
+New files:
+123.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:36
+New files:
+fg.txt
+в.txt
+
+Modified files:
+
+New directories:
+gg
+gg2
+ыв
+ыва
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:37
+New files:
+Новый текстовый документ.txt
+
+Modified files:
+
+New directories:
+123
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:37
+New files:
+asd.txt
+
+Modified files:
+
+New directories:
+sdg
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:37
+New files:
+123.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 14:37
+New files:
+fg.txt
+в.txt
+
+Modified files:
+
+New directories:
+gg
+gg2
+ыв
+ыва
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 16:23
+New files:
+322.txt
+
+Modified files:
+
+New directories:
+ррр
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 16:23
+New files:
+
+Modified files:
+
+New directories:
+234
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 16:23
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+123
+22
+ааа
+аааа
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 17:36
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+Date: 01.06.2023 Time: 17:37
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+Date: 01.06.2023 Time: 17:42
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+Date: 01.06.2023 Time: 17:42
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+Date: 01.06.2023 Time: 17:43
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+Date: 01.06.2023 Time: 17:49
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+Date: 01.06.2023 Time: 17:52
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 17:53
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+Новая папка
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 17:53
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+Новая папка
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 17:54
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+Новая папка
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 17:57
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+fff
+Новая папка
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 17:58
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+fff
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 17:58
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+fff
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+Date: 01.06.2023 Time: 17:58
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+fff
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+Date: 01.06.2023 Time: 17:58
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+fff
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:08
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+fff
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:08
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+fff
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:10
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+ddd
+fff
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:16
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+ddd
+fff
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:17
+New files:
+sdfsdf.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:17
+New files:
+333.txt
+
+Modified files:
+
+New directories:
+asdsadsdasdas
+ddd
+fff
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:20
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:20
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:20
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:20
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:24
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:24
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:24
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:24
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:28
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:28
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:28
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:28
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:29
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:29
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:29
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:29
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:32
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:32
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:32
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:32
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:35
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:35
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:35
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:35
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: No such file
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:37
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:37
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:37
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:37
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:39
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:39
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:39
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:39
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:43
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:43
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:43
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:43
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:44
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:44
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:44
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:44
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: Failure
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:47
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:47
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:47
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:47
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:49
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:49
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:49
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:49
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:51
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:51
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:51
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:51
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:54
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:54
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:54
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:54
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:56
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:56
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:56
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: java.io.FileNotFoundException: C:\Users\Honor\Desktop\test\2\3\4 (Отказано в доступе)
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:56
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: java.io.FileNotFoundException: C:\Users\Honor\Desktop\test\2\3 (Отказано в доступе)
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:57
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:57
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:57
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: java.io.FileNotFoundException: C:\Users\Honor\Desktop\test\2\3\4 (Отказано в доступе)
+--------------------------
+New files:
+Date: 01.06.2023 Time: 18:57
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Error occurred while transferring files and directories: java.io.FileNotFoundException: C:\Users\Honor\Desktop\test\2\3 (Отказано в доступе)
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:03
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:03
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:03
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:03
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:04
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:04
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:04
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:04
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:06
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:06
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:06
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:06
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:07
+New files:
+help.txt
+
+Modified files:
+
+New directories:
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:07
+New files:
+234234.txt
+
+Modified files:
+
+New directories:
+4
+5
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:07
+New files:
+
+Modified files:
+
+New directories:
+3
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
+New files:
+Date: 01.06.2023 Time: 19:07
+New files:
+text.txt
+
+Modified files:
+
+New directories:
+1
+2
+
+Modified directories:
+Connected to remote server successfully.
+
+Files and directories transferred successfully.
+--------------------------
